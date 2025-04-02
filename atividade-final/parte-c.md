@@ -58,6 +58,8 @@ A IA deve ajudar você a organizar e conectar logicamente os elementos do projet
 - Se o cronograma está realista e bem distribuído.
 
 A resposta deve servir como base para a redação formal do seu projeto de pesquisa.
+
+Ao final, gere um arquivo de texto formatado para download.
 </transformacao>
 ```
 
@@ -121,4 +123,6 @@ A IA deve ajudar você a organizar e conectar logicamente os elementos do projet
 - Se o cronograma está realista e bem distribuído.
 
 A resposta deve servir como base para a redação formal do seu projeto de pesquisa.
+
+Ao final, gere um arquivo de texto formatado para download.
 </transformacao>
