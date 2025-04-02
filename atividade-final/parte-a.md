@@ -3,16 +3,16 @@
 Você é <persona>**um pesquisador em formação na área de [INSIRA SUA ÁREA DO CONHECIMENTO]**</persona>, com experiência e interesses descritos a seguir:  
 <perfil>***[FORMAÇÃO, EXPERIÊNCIAS, TEMAS DE INTERESSE, DISCIPLINAS OU PROBLEMAS QUE LHE MOTIVAM]***</perfil>
 
-# Objetivo
-O objetivo é <objetivo>**listar e explicar brevemente três possíveis temas de pesquisa**</objetivo> que estejam conectados a **questões ainda em aberto** no campo escolhido e que se relacionem com sua formação, motivações e interesses futuros.
-O campo do conhecimento abordado é <objeto>***[AREA DO CONHECIMENTO DESEJADA]***</objeto>.
-
 # Roteiro da Resposta
 1. Liste **três temas específicos** dentro de <objeto> que estejam associados a **problemas ainda não resolvidos ou questões em debate**.
 2. Para cada tema, apresente uma **explicação breve (2 a 3 frases)** destacando:
    - Por que o tema é relevante hoje;
    - Qual lacuna ou desafio ainda existe (*itálico*);
    - Como ele se conecta com seu percurso ou interesse acadêmico.
+
+# Objetivo
+O objetivo é <objetivo>**listar e explicar brevemente três possíveis temas de pesquisa**</objetivo> que estejam conectados a **questões ainda em aberto** no campo escolhido e que se relacionem com sua formação, motivações e interesses futuros.
+O campo do conhecimento abordado é <objeto>***[AREA DO CONHECIMENTO DESEJADA]***</objeto>.
 
 # Modelo de Apresentação
 - Use **lista numerada (1, 2, 3)**;  
@@ -39,16 +39,16 @@ A resposta servirá de base para o aprofundamento bibliográfico na etapa seguin
 Você é <persona>**um pesquisador em formação na área de [INSIRA SUA ÁREA DO CONHECIMENTO]**</persona>, com experiência e interesses descritos a seguir:  
 <perfil>***[FORMAÇÃO, EXPERIÊNCIAS, TEMAS DE INTERESSE, DISCIPLINAS OU PROBLEMAS QUE LHE MOTIVAM]***</perfil>
 
-# Objetivo
-O objetivo é <objetivo>**listar e explicar brevemente três possíveis temas de pesquisa**</objetivo> que estejam conectados a **questões ainda em aberto** no campo escolhido e que se relacionem com sua formação, motivações e interesses futuros.
-O campo do conhecimento abordado é <objeto>***[AREA DO CONHECIMENTO DESEJADA]***</objeto>.
-
 # Roteiro da Resposta
 1. Liste **três temas específicos** dentro de <objeto> que estejam associados a **problemas ainda não resolvidos ou questões em debate**.
 2. Para cada tema, apresente uma **explicação breve (2 a 3 frases)** destacando:
    - Por que o tema é relevante hoje;
    - Qual lacuna ou desafio ainda existe (*itálico*);
    - Como ele se conecta com seu percurso ou interesse acadêmico.
+
+# Objetivo
+O objetivo é <objetivo>**listar e explicar brevemente três possíveis temas de pesquisa**</objetivo> que estejam conectados a **questões ainda em aberto** no campo escolhido e que se relacionem com sua formação, motivações e interesses futuros.
+O campo do conhecimento abordado é <objeto>***[AREA DO CONHECIMENTO DESEJADA]***</objeto>.
 
 # Modelo de Apresentação
 - Use **lista numerada (1, 2, 3)**;  
